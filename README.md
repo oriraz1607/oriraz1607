@@ -1,4 +1,4 @@
-# Hi, I'm oriraz1607 👋
+# Hi, I'm Ori 
 
 Welcome to my GitHub profile repository.
 
@@ -6,34 +6,28 @@ I’m a developer passionate about building useful tools, exploring new technolo
 
 ## About Me
 
-- 💻 Interested in software development, problem solving, and creative engineering
+- 💻 Interested in Observability, problem solving, and creative engineering
 - 🌱 Always learning and experimenting with new technologies
 - 🚀 Building projects that are practical, efficient, and meaningful
-- 🤝 Open to collaboration, feedback, and new opportunities
 
 ## Tech Stack
 
 Here are some of the tools and technologies I work with:
 
-- Languages: JavaScript, TypeScript, Python, Java, C#, Go, SQL
-- Frontend: HTML, CSS, React, Next.js
-- Backend: Node.js, Express, REST APIs, databases
+- Languages: Bash, Python, Java, C#, Go
 - Tools: Git, GitHub, Docker, VS Code, Postman
 
 ## Current Focus
 
-- Improving my software engineering skills
-- Building projects with real-world value
-- Learning modern frameworks and best practices
-- Strengthening backend, frontend, and full-stack development knowledge
+- Observing
+- Experimenting with linux
+- Watching instagram reels
+- Waiting for grafana to lock in
 
-## Featured Projects
+## What am I doing?
 
-This repository is a good place to highlight your best work. Add project cards like:
-
-- Project 1 — short description
-- Project 2 — short description
-- Project 3 — short description
+- Context Scroll - Context aware middle mouse scroll for GNOME  
+- Grafana Alloy Alertmanager Component - Creating and Engineering a new component for Grafana Alloy
 
 ## GitHub Stats
 
@@ -42,23 +36,3 @@ This repository is a good place to highlight your best work. Add project cards l
 ## Connect
 
 - GitHub: [@oriraz1607](https://github.com/oriraz1607)
-- Email: your-email@example.com
-- LinkedIn: your-linkedin-profile
-
-## Notes
-
-This README is a clean starting point for your profile. You can personalize it with:
-
-- your real bio
-- your favorite technologies
-- your projects
-- portfolio links
-- contact information
-
-If you want, I can also tailor this README to a specific style such as:
-
-- Minimal and professional
-- Modern developer profile
-- Portfolio-focused
-- Project showcase
-- Gaming / creative profile
