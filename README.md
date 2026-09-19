@@ -1,9 +1,5 @@
 # Hi, I'm Ori
 
-Welcome to my GitHub profile repository.
-
-I’m a developer passionate about building useful tools, exploring new technologies, and continuously improving my skills. This space is where I share projects, experiments, and learning work.
-
 ## About Me
 
 - 💻 Interested in observability, problem solving, and creative engineering
