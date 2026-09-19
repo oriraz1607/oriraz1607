@@ -1,4 +1,4 @@
-# Hi, I'm Ori
+# Hi, I'm Ori!
 
 ## About Me
 
